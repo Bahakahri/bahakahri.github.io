@@ -1,0 +1,9 @@
+Dear Hiring Team,
+I'm applying for the Data Scientist role at Totango. The description is refreshingly honest about what the job actually is, deep modeling work that has to make sense to a VP, not just a fellow data scientist. That's the kind of work I'm drawn to.
+My background sits right at that intersection. I've built and deployed supervised models using gradient boosting and tree-based methods, worked directly with large datasets in BigQuery and Python, and consistently had to translate results for non-technical stakeholders. At Glovo, I built predictive models for customer segmentation and demand forecasting, and at Ozeol I apply causal inference methods to measure real business impact and communicate findings to leadership. Explaining SHAP values to a business audience isn't a stretch for me, it's something I do regularly.
+What stands out about this role is the full lifecycle ownership. I'm not looking for a job where someone else decides what to analyze. I like scoping the problem, building the model, and following it through to the point where a customer can actually act on it. That's the part that makes the work feel worth doing.
+I'd love to talk through how my experience maps to what you're building.
+Best regards,
+Baha Kahri
+bahakahri@gmail.com | +216 27 688 657
+linkedin.com/in/baha-kahri
